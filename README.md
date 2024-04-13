@@ -13,6 +13,9 @@
 </p>
 
 <h3 align="left">What I am currently working on:</h3>
+<a href="https://github.com/ndavido/fuelbuddy">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
 <p align="left">
   <img src="https://raw.githubusercontent.com/davidDKIT/davidDKIT/main/davidmedia/gifs/fuelbuddy_advert_gif_30fps.gif" alt="fuelbuddy gif">
 </p>
