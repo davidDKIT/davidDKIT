@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David McCabe</h1>
 <h3 align="center">A Student with work experience completing my final year in DKIT.</h3>
 
-- 🔭 I’m currently working on **fuelbuddy**
+- 🔭 I’m currently working on **my portfolio website**
 
 - 🌱 I’m currently learning **React/ Flask/ Django and ThreeJS**
 
